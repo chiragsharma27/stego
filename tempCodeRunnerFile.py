@@ -1,0 +1,8 @@
+UPLOAD_IMAGE_FOLDER = 'modes\\Image\\static'
+IMAGE_CACHE_FOLDER = 'modes\\Image\\__pycache__/'
+UPLOAD_TEXT_FOLDER = ''
+TEXT_CACHE_FOLDER = 'modes\\Text\\__pycache__/'
+UPLOAD_AUDIO_FOLDER = 'modes\\Audio\\static'
+AUDIO_CACHE_FOLDER = 'modes\\Audio\\__pycache__'
+UPLOAD_VIDEO_FOLDER = 'modes\\Video\\static'
+VIDEO_CACHE_FOLDER = 'modes\\Video\\__pycache__'
